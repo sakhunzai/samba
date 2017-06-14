@@ -42,3 +42,4 @@
 
 # Developement server
 .web-server-pid
+/vendor/*
